@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: verdana;
+  color: gray;
+}
+
+.top {
+  font-size: 50px;
+  color: white;
+}
+
+.sectiontitle {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.footer {
+  text-align: right;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
